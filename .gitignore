@@ -1,12 +1,12 @@
 # =============== #
 # Unity generated #
 # =============== #
-Temp\
-Obj\
-UnityGenerated\
-Library\
-266GameJam\trunk\Unity_Project\266GameJam\obj
+Temp/
+Obj/
+UnityGenerated/
+Library/
 Assets/AssetStoreTools*
+Unity_Project\266GameJam\Temp
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
