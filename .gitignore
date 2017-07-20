@@ -1,10 +1,11 @@
 # =============== #
 # Unity generated #
 # =============== #
-Temp/
-Obj/
-UnityGenerated/
-Library/
+Temp\
+Obj\
+UnityGenerated\
+Library\
+266GameJam\trunk\Unity_Project\266GameJam\obj
 Assets/AssetStoreTools*
 
 # ===================================== #
